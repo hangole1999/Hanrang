@@ -1,0 +1,37 @@
+{
+  "behaviors": {
+    "ScriptBehavior": {
+      "scriptId": "1",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "ScrTitleBehavior": {
+      "scriptId": "10",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "ScrPlayerBehave": {
+      "scriptId": "6",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "position",
+          "type": "Sup.Math.Vector3"
+        },
+        {
+          "name": "canJump",
+          "type": "boolean"
+        }
+      ]
+    },
+    "ScrCameraBehavior": {
+      "scriptId": "25",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    }
+  }
+}

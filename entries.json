@@ -1,0 +1,100 @@
+[
+  {
+    "id": "0",
+    "name": "Scripts",
+    "type": null,
+    "children": [
+      {
+        "id": "1",
+        "name": "Script",
+        "type": "script"
+      },
+      {
+        "id": "6",
+        "name": "scrPlayer",
+        "type": "script"
+      },
+      {
+        "id": "10",
+        "name": "scrTitle",
+        "type": "script"
+      },
+      {
+        "id": "25",
+        "name": "scrCamera",
+        "type": "script"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Sprites",
+    "type": null,
+    "children": [
+      {
+        "id": "4",
+        "name": "sprPlant",
+        "type": "sprite"
+      },
+      {
+        "id": "12",
+        "name": "sprBackground",
+        "type": "sprite"
+      },
+      {
+        "id": "13",
+        "name": "sprPlayer",
+        "type": "sprite"
+      },
+      {
+        "id": "16",
+        "name": "sprBar",
+        "type": "sprite"
+      },
+      {
+        "id": "21",
+        "name": "sprShadow",
+        "type": "sprite"
+      },
+      {
+        "id": "26",
+        "name": "sprMario",
+        "type": "sprite"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Scenes",
+    "type": null,
+    "children": [
+      {
+        "id": "5",
+        "name": "scnGame",
+        "type": "scene"
+      },
+      {
+        "id": "7",
+        "name": "scnTitle",
+        "type": "scene"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Models",
+    "type": null,
+    "children": [
+      {
+        "id": "22",
+        "name": "Cubic Model",
+        "type": "cubicModel"
+      },
+      {
+        "id": "24",
+        "name": "3D Model",
+        "type": "model"
+      }
+    ]
+  }
+]

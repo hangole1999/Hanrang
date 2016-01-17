@@ -1,0 +1,72 @@
+{
+  "formatVersion": 3,
+  "maps": [
+    "map"
+  ],
+  "filtering": "pixelated",
+  "wrapping": "clampToEdge",
+  "pixelsPerUnit": 100,
+  "framesPerSecond": 10,
+  "opacity": null,
+  "alphaTest": 0.1,
+  "frameOrder": "rows",
+  "grid": {
+    "width": 16,
+    "height": 28
+  },
+  "origin": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "animations": [
+    {
+      "id": "1",
+      "name": "Run",
+      "startFrameIndex": 7,
+      "endFrameIndex": 10,
+      "speed": 3
+    },
+    {
+      "id": "3",
+      "name": "Jump",
+      "startFrameIndex": 18,
+      "endFrameIndex": 19,
+      "speed": 1
+    },
+    {
+      "id": "5",
+      "name": "Idle",
+      "startFrameIndex": 8,
+      "endFrameIndex": 8,
+      "speed": 0
+    },
+    {
+      "id": "6",
+      "name": "RunL",
+      "startFrameIndex": 3,
+      "endFrameIndex": 6,
+      "speed": 3
+    },
+    {
+      "id": "7",
+      "name": "JumpL",
+      "startFrameIndex": 16,
+      "endFrameIndex": 17,
+      "speed": 1
+    },
+    {
+      "id": "8",
+      "name": "IdleL",
+      "startFrameIndex": 5,
+      "endFrameIndex": 5,
+      "speed": 0
+    }
+  ],
+  "mapSlots": {
+    "map": "map",
+    "light": null,
+    "specular": null,
+    "alpha": null,
+    "normal": null
+  }
+}
